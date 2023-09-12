@@ -2,6 +2,6 @@
 
 Specialized in native Android and iOS.
 
-![Anurag's GitHub stats](https://github-readme-stats-blond-two.vercel.app/api?username=axiel7&show_icons=true&count_private=true&theme=github_dark)
+![GitHub stats](https://github.com/axiel7/github-readme-stats/raw/resource/grs/stats.svg)
 
-![Top Langs](https://github-readme-stats-blond-two.vercel.app/api/top-langs/?username=axiel7&layout=compact&theme=github_dark)
+![Top Langs](https://github.com/axiel7/github-readme-stats/raw/resource/grs/top-langs.svg)
